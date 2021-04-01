@@ -15,11 +15,7 @@
     "cpu-features": "0.0.2",
     "nan": "^2.14.1"
   },
-  "scripts": {
-    "install": "node install.js",
-    "rebuild": "node install.js",
-    "test": "node test/test.js"
-  },
+  "scripts": {},
   "keywords": [
     "ssh",
     "ssh2",
